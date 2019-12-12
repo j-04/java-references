@@ -1,4 +1,4 @@
-#Simple example of java reference types
+# Simple example of java reference types
 
 ### Technologies stack:
 > * Java 8
